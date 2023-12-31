@@ -1,0 +1,29 @@
+.button{
+
+    color:white;
+    background-color: green;
+    font-size: 40px;
+
+}
+
+.title{
+    color:crimson;
+    /* font-weight: bold; */
+    
+}
+
+.titleFont{
+    font-size:20px;
+}
+
+.save{
+    background-color: green;
+}
+
+.danger{
+    background-color: red;
+}
+
+.success{
+    font-weight: bold;
+}
